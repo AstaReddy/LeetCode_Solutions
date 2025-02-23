@@ -1,2 +1,6 @@
 Hi this is Guru
+<<<<<<< HEAD
 HI this is Abhi
+=======
+Hi this is Kunal
+>>>>>>> f1ba910506fb51bde07878b59b059455fe1c75ad
